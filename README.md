@@ -1,5 +1,5 @@
 # iSki
-One day (18/05/2018) project by Markus Karlsson, first showcase for resumees. Made with Unity, written in C#. 
+One day (18/05/2018) project by Markus Karlsson. First showcase for resumees. Made with Unity, written in C#. 
 
 Hit trees for bonus points but watch out for stumps. 
 
